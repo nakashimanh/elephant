@@ -1,4 +1,3 @@
-//This example uses the ORM jet
 package main
 
 import (
