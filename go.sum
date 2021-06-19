@@ -1,0 +1,6 @@
+github.com/eaigner/jet v0.0.0-20140105131908-ae59b2cccfe3 h1:dOZHh7hVmgid84dAUqqJFCeZipgQS+j2jAgGoUJOxpE=
+github.com/eaigner/jet v0.0.0-20140105131908-ae59b2cccfe3/go.mod h1:dDZTQm1VvYk0PrMlFHIhNE+6WPbmDv4EO8Qt96ix3Q4=
+github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
+github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
+github.com/lib/pq v1.10.2 h1:AqzbZs4ZoCBp+GtejcpCpcxM3zlSMx29dXbUSeVtJb8=
+github.com/lib/pq v1.10.2/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
